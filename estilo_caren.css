@@ -1,0 +1,67 @@
+.topo {
+    background-color: #F2C335;
+    padding: 20px;
+  }
+
+  .conteudo {
+    padding: 20px;
+  }
+
+
+  .btn-primary {
+    background-color:  #F2C335; 
+    border-color: #F2C335;    
+    color: black;
+  }
+  
+  .btn-primary:hover {
+    background-color:#F28E13; 
+    border-color: #F28E13;
+  }
+
+  .bg-neves {
+    
+    padding: 20px;
+  }
+
+  .elemento {
+  
+        border-top: 1px solid #F2C335;
+        padding-top: 10px;
+
+  }
+
+  .rodape {
+
+    background-color: white;
+  }
+
+  .preco-simbolo {
+    font-size: 20px;
+}
+
+.preco-valor {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.preco-texto {
+    font-size: 16px;
+    color: #666;
+}
+
+.form{
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
